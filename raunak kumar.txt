@@ -1,1 +1,3 @@
 this is a git poc first commit
+
+this is a second message for testing
